@@ -4,7 +4,7 @@
   "description": "This is a project using my knowledge in asynchronism",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-page -d index.html"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
