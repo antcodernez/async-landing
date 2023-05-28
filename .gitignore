@@ -130,3 +130,5 @@ dist
 .pnp.*
 
 yo.jpeg:Zone.Identifier*
+package-lock.json*
+package.json*
