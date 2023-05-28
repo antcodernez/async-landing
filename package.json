@@ -1,0 +1,27 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "This is a project using my knowledge in asynchronism",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-page -d index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antcodernez/async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antcodernez/async-landing/issues"
+  },
+  "homepage": "https://github.com/antcodernez/async-landing#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
